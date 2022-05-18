@@ -9,6 +9,14 @@ html {
     padding: 0;
     font-family: 'Lato', sans-serif;
     color: white;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    
 }
 
 
@@ -51,7 +59,7 @@ img:hover {
 .code-logo {
     font-size: 80px;
     text-align: right;
-    margin-top: 5rem;
+    margin-top: 4rem;
     animation: code-logo 1.5s normal infinite;
 
 }
